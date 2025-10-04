@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Grilled Sea Bass",
+    "price": "$9.67",
+    "image": "img/Ocean Pear (5).png"
+  },
+  {
+    "id": 2,
+    "name": "Garlic Shrimp",
+    "price": "$10.99",
+    "image": "img/Ocean Pear (8).png"
+  },
+  {
+    "id": 3,
+    "name": "Crispy Calamari ",
+    "price": "$13.45",
+    "image": "img/Ocean Pear (4).png"
+  },
+  {
+    "id": 4,
+    "name": "Lobster Sauce",
+    "price": "$7.50",
+    "image": "img/Ocean Pear (2).png"
+  }
+]
