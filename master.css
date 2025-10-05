@@ -7,7 +7,6 @@
 }
 
 :root {
-  --lead: #fff;
   --gold-finger:#48b6f1 ;
   --hint-yellow: #48b6f1;
   --eye-ball: #ecf8ff;
@@ -509,6 +508,15 @@ input[type="email"]:focus {
 .footer-container .flex {
   align-items: flex-start;
 }
+.pargraf-footer {
+  text-align: center;
+  border-top: 1px solid #48b6f1;
+}
+.pargraf-footer p {
+  font-size: medium;
+  color: rgb(78, 78, 78);
+  margin-top: 3px;
+}
 /* media qury */
 @media screen and (max-width: 820px) {
   .navlist,
@@ -582,5 +590,5 @@ input[type="email"]:focus {
     flex: 1;
   }
 }
-@media (max-width: 380px) {
-}
+
+
