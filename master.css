@@ -7,6 +7,7 @@
 }
 
 :root {
+  --lead: #fff;
   --gold-finger:#48b6f1 ;
   --hint-yellow: #48b6f1;
   --eye-ball: #ecf8ff;
@@ -590,5 +591,6 @@ input[type="email"]:focus {
     flex: 1;
   }
 }
+
 
 
